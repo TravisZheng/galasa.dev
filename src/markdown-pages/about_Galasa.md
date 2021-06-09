@@ -3,6 +3,8 @@ path: "/about"
 title: "About Galasa"
 ---
 
+# About Galasa
+
 Galasa is different from other test tools; enabling deep integration testing across platforms and technologies within a DevOps pipeline, Galasa supports repeatable, reliable, agile testing at scale across your enterprise.
 
 ### Platform integration
