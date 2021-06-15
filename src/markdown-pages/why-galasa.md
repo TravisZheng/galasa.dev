@@ -5,7 +5,7 @@ title: "Why Galasa is different"
 
 # Why Galasa is different
 
-What makes Galasa different to other testing tools?
+What makes Galasa different from other testing tools?
 
 If you've ever struggled to implement automated testing across a complex technology stack, you might recognize some of the issues that we identified during our design process. Expand the following headings to see how Galasa solves these challenges.
 
@@ -53,12 +53,6 @@ The Galasa test catalog provides the ability to generate a clear description of 
 Investigating test failures takes up time and can be particularly tedious with larger scripts. Test artifacts are often stored in lots of different repositories, making it time-consuming and difficult to locate the right information to help you root out the cause of a failure.
 
 Galasa automatically stores all test artifacts in a single, central repository, making diagnostics quicker and easier and allowing big picture information to be extracted easily. You can also debug tests using a local instance of Galasa, so you can examine every line of code.
-
-### Big picture communication
-
-Test results are often stored in spreadsheets and manually approved by product owners before changes are promoted. This makes it difficult to understand the tests that have been run, and the manual intervention required as part of the sign-off process can delay delivery.
-
-Galasa's dashboard integrates all your test results in one place, making reporting and reviewing between test phases easy and consistent.
 
 ## Extensibility and scalability - future-proofing your testing:
 
